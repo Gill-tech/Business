@@ -1,6 +1,4 @@
-# Megakit By Themefisher
 
-Megakit is a well-crafted, versatile and unique HTML5 agency template. Its wonderful features can be used to enhance the websites of IT firms, digital agencies, and creative professionals.
 
 ## [Vvveb CMS](https://www.vvveb.com) theme.
 
